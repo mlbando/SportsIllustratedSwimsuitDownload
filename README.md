@@ -4,7 +4,7 @@ catalog. This catalog contains years 2014 through 2017.
 To run, clone the repo and run:
 
 ```
-python3  downloader
+python3  downloader.py
 ```
 
 Be sure to run the script in the directory where you want the files saved.
